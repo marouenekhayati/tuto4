@@ -1,6 +1,10 @@
 change 1
 change team1
 change team2
+<<<<<<< HEAD
 another change team 2
+=======
+another change team 1
+>>>>>>> githube/master
 
 
