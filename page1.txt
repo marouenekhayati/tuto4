@@ -2,6 +2,7 @@ change 1
 change team1
 change team2
 <<<<<<< HEAD
+<<<<<<< HEAD
 another change team 2
 =======
 another change team 1
@@ -15,5 +16,7 @@ team 2 rebase
 >>>>>>> ced5256... test rebase
 change . 
 
+=======
+>>>>>>> parent of a6a2753... another change team2
 
 
